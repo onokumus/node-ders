@@ -1,0 +1,14 @@
+{
+  "name": "proje2",
+  "version": "1.0.0",
+  "description": "Less dosyalarını otomatik derleme scripti",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "onokumus <onokumus@gmail.com> (http://onokumus.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^2.1.1"
+  }
+}
